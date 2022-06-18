@@ -1,10 +1,4 @@
-# Web Shell
-
-This is a basic example of a web shell, using node-pty and xterm.js.
-
-## How to run it?
-
-Run the below command and then visit http://localhost:8080/ in your browser.
+Run the below command and then visit http://localhost:8080/ .
 
 ```bash
 npm install
